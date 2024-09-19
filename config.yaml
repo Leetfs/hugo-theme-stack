@@ -41,9 +41,9 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
+            shortname: Lee's Blog
+            apiUrl: https://disqus.com/api/oauth/2.0/access_token/
+            apiKey: u5jgx0qR5uifHdr9CEoyXtK66q2vOiOmdvxz8SeieqG4PhqeIKJ6wj8MK7CmXXxy
             admin:
             adminLabel:
 
